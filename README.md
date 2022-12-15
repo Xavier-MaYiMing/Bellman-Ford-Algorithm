@@ -13,7 +13,7 @@ The Bellman-Ford algorithm for the shortest path problem with negative weights.
 
 #### Example
 
-![shortest path problem example](C:\Users\dell\Desktop\研究生\个人算法主页\Bellman-Ford Algorithm\shortest path problem example.png)
+![](https://github.com/Xavier-MaYiMing/Bellman-Ford-Algorithm/blob/main/shortest%20path%20problem%20example.png)
 
 ```python
 if __name__ == '__main__':
